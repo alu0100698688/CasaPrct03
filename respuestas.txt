@@ -1,0 +1,2 @@
+Las diferencias es que en el modo interactivo aparece la siguiente línea "=> nil" y que se pone el código de lo que 
+se va a ejecutar.
